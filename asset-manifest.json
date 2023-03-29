@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travco/static/css/main.a440ab1d.css",
+    "main.js": "/travco/static/js/main.20d6170c.js",
+    "index.html": "/travco/index.html",
+    "main.a440ab1d.css.map": "/travco/static/css/main.a440ab1d.css.map",
+    "main.20d6170c.js.map": "/travco/static/js/main.20d6170c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a440ab1d.css",
+    "static/js/main.20d6170c.js"
+  ]
+}
